@@ -42,8 +42,8 @@
             this.隱藏ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.listBox1 = new System.Windows.Forms.ListBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.menuStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -73,14 +73,14 @@
             // 打開ToolStripMenuItem
             // 
             this.打開ToolStripMenuItem.Name = "打開ToolStripMenuItem";
-            this.打開ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.打開ToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
             this.打開ToolStripMenuItem.Text = "打開";
             this.打開ToolStripMenuItem.Click += new System.EventHandler(this.打開ToolStripMenuItem_Click);
             // 
             // 保存ToolStripMenuItem
             // 
             this.保存ToolStripMenuItem.Name = "保存ToolStripMenuItem";
-            this.保存ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.保存ToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
             this.保存ToolStripMenuItem.Text = "保存";
             this.保存ToolStripMenuItem.Click += new System.EventHandler(this.保存ToolStripMenuItem_Click);
             // 
@@ -95,7 +95,7 @@
             // 自動換行ToolStripMenuItem
             // 
             this.自動換行ToolStripMenuItem.Name = "自動換行ToolStripMenuItem";
-            this.自動換行ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.自動換行ToolStripMenuItem.Size = new System.Drawing.Size(122, 22);
             this.自動換行ToolStripMenuItem.Text = "自動換行";
             this.自動換行ToolStripMenuItem.Click += new System.EventHandler(this.自動換行ToolStripMenuItem_Click);
             // 
@@ -111,14 +111,14 @@
             // 字體ToolStripMenuItem
             // 
             this.字體ToolStripMenuItem.Name = "字體ToolStripMenuItem";
-            this.字體ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.字體ToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
             this.字體ToolStripMenuItem.Text = "字體";
             this.字體ToolStripMenuItem.Click += new System.EventHandler(this.字體ToolStripMenuItem_Click);
             // 
             // 顏色ToolStripMenuItem
             // 
             this.顏色ToolStripMenuItem.Name = "顏色ToolStripMenuItem";
-            this.顏色ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.顏色ToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
             this.顏色ToolStripMenuItem.Text = "顏色";
             this.顏色ToolStripMenuItem.Click += new System.EventHandler(this.顏色ToolStripMenuItem_Click);
             // 
@@ -135,14 +135,14 @@
             // 顯示ToolStripMenuItem
             // 
             this.顯示ToolStripMenuItem.Name = "顯示ToolStripMenuItem";
-            this.顯示ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.顯示ToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
             this.顯示ToolStripMenuItem.Text = "顯示";
             this.顯示ToolStripMenuItem.Click += new System.EventHandler(this.顯示ToolStripMenuItem_Click);
             // 
             // 隱藏ToolStripMenuItem
             // 
             this.隱藏ToolStripMenuItem.Name = "隱藏ToolStripMenuItem";
-            this.隱藏ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.隱藏ToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
             this.隱藏ToolStripMenuItem.Text = "隱藏";
             this.隱藏ToolStripMenuItem.Click += new System.EventHandler(this.隱藏ToolStripMenuItem_Click);
             // 
@@ -163,15 +163,6 @@
             this.panel1.Size = new System.Drawing.Size(235, 422);
             this.panel1.TabIndex = 2;
             // 
-            // listBox1
-            // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 12;
-            this.listBox1.Location = new System.Drawing.Point(0, 3);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(117, 424);
-            this.listBox1.TabIndex = 0;
-            // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(123, 143);
@@ -181,6 +172,16 @@
             this.button1.Text = "＜＜";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 12;
+            this.listBox1.Location = new System.Drawing.Point(0, 3);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(117, 424);
+            this.listBox1.TabIndex = 0;
+            this.listBox1.DoubleClick += new System.EventHandler(this.listBox1_DoubleClick);
             // 
             // Form1
             // 

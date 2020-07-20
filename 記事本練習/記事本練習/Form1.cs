@@ -57,6 +57,8 @@ namespace 記事本練習
             //獲得文件路徑
             string path =ofd.FileName;
             string filename = Path.GetFileName(path);
+            //將文件全部路徑存進集合中
+            list.Add(path);
             listBox1.Items.Add(filename);
             if (path == "")
             {
@@ -120,6 +122,18 @@ namespace 記事本練習
             ColorDialog color = new ColorDialog();
             color.ShowDialog();
             textBox1.ForeColor = color.Color;
+        }
+        List<string> list = new List<string>();
+        private void listBox1_DoubleClick(object sender, EventArgs e)
+        {
+            //獲得雙擊文件所對應全路徑
+            string path =list[listBox1.SelectedIndex];
+            using(FileStream fsread = new FileStream(path, FileMode.OpenOrCreate, FileAccess.Read))
+            {
+                byte[] buffer = new byte[1024 * 1024 * 5];
+                int r = fsread.Read(buffer, 0, buffer.Length);
+               textBox1.Text = Encoding.Default.GetString(buffer,0,r);
+            }
         }
     }
 }
