@@ -1,0 +1,10 @@
+C:\Users\k2lairrol\source\repos\瀏覽器控件\瀏覽器控件\bin\Debug\瀏覽器控件.exe.config
+C:\Users\k2lairrol\source\repos\瀏覽器控件\瀏覽器控件\bin\Debug\瀏覽器控件.exe
+C:\Users\k2lairrol\source\repos\瀏覽器控件\瀏覽器控件\bin\Debug\瀏覽器控件.pdb
+C:\Users\k2lairrol\source\repos\瀏覽器控件\瀏覽器控件\obj\Debug\瀏覽器控件.csprojAssemblyReference.cache
+C:\Users\k2lairrol\source\repos\瀏覽器控件\瀏覽器控件\obj\Debug\瀏覽器控件.Form1.resources
+C:\Users\k2lairrol\source\repos\瀏覽器控件\瀏覽器控件\obj\Debug\瀏覽器控件.Properties.Resources.resources
+C:\Users\k2lairrol\source\repos\瀏覽器控件\瀏覽器控件\obj\Debug\瀏覽器控件.csproj.GenerateResource.cache
+C:\Users\k2lairrol\source\repos\瀏覽器控件\瀏覽器控件\obj\Debug\瀏覽器控件.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\source\repos\瀏覽器控件\瀏覽器控件\obj\Debug\瀏覽器控件.exe
+C:\Users\k2lairrol\source\repos\瀏覽器控件\瀏覽器控件\obj\Debug\瀏覽器控件.pdb

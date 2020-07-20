@@ -1,0 +1,10 @@
+C:\Users\k2lairrol\source\repos\MDI設計\MDI設計\bin\Debug\MDI設計.exe.config
+C:\Users\k2lairrol\source\repos\MDI設計\MDI設計\bin\Debug\MDI設計.exe
+C:\Users\k2lairrol\source\repos\MDI設計\MDI設計\bin\Debug\MDI設計.pdb
+C:\Users\k2lairrol\source\repos\MDI設計\MDI設計\obj\Debug\MDI設計.csprojAssemblyReference.cache
+C:\Users\k2lairrol\source\repos\MDI設計\MDI設計\obj\Debug\MDI設計.Form1.resources
+C:\Users\k2lairrol\source\repos\MDI設計\MDI設計\obj\Debug\MDI設計.Properties.Resources.resources
+C:\Users\k2lairrol\source\repos\MDI設計\MDI設計\obj\Debug\MDI設計.csproj.GenerateResource.cache
+C:\Users\k2lairrol\source\repos\MDI設計\MDI設計\obj\Debug\MDI設計.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\source\repos\MDI設計\MDI設計\obj\Debug\MDI設計.exe
+C:\Users\k2lairrol\source\repos\MDI設計\MDI設計\obj\Debug\MDI設計.pdb

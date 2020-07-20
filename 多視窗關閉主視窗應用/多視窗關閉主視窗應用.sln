@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多視窗關閉主視窗應用", "多視窗關閉主視窗應用\多視窗關閉主視窗應用.csproj", "{7618332A-E778-4A89-B951-58E816CB520A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7618332A-E778-4A89-B951-58E816CB520A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7618332A-E778-4A89-B951-58E816CB520A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7618332A-E778-4A89-B951-58E816CB520A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7618332A-E778-4A89-B951-58E816CB520A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FF62C8B-0B00-49E3-85CB-85FCA4198F84}
+	EndGlobalSection
+EndGlobal

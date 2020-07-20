@@ -1,0 +1,10 @@
+C:\Users\k2lairrol\source\repos\ListBox\實現點擊更換照片\bin\Debug\實現點擊更換照片.exe.config
+C:\Users\k2lairrol\source\repos\ListBox\實現點擊更換照片\bin\Debug\實現點擊更換照片.exe
+C:\Users\k2lairrol\source\repos\ListBox\實現點擊更換照片\bin\Debug\實現點擊更換照片.pdb
+C:\Users\k2lairrol\source\repos\ListBox\實現點擊更換照片\obj\Debug\實現點擊更換照片.csprojAssemblyReference.cache
+C:\Users\k2lairrol\source\repos\ListBox\實現點擊更換照片\obj\Debug\實現點擊更換照片.Form1.resources
+C:\Users\k2lairrol\source\repos\ListBox\實現點擊更換照片\obj\Debug\實現點擊更換照片.Properties.Resources.resources
+C:\Users\k2lairrol\source\repos\ListBox\實現點擊更換照片\obj\Debug\實現點擊更換照片.csproj.GenerateResource.cache
+C:\Users\k2lairrol\source\repos\ListBox\實現點擊更換照片\obj\Debug\實現點擊更換照片.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\source\repos\ListBox\實現點擊更換照片\obj\Debug\實現點擊更換照片.exe
+C:\Users\k2lairrol\source\repos\ListBox\實現點擊更換照片\obj\Debug\實現點擊更換照片.pdb

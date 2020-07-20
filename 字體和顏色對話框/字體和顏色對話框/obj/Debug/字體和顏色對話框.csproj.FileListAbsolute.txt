@@ -1,0 +1,10 @@
+C:\Users\k2lairrol\source\repos\字體和顏色對話框\字體和顏色對話框\bin\Debug\字體和顏色對話框.exe.config
+C:\Users\k2lairrol\source\repos\字體和顏色對話框\字體和顏色對話框\bin\Debug\字體和顏色對話框.exe
+C:\Users\k2lairrol\source\repos\字體和顏色對話框\字體和顏色對話框\bin\Debug\字體和顏色對話框.pdb
+C:\Users\k2lairrol\source\repos\字體和顏色對話框\字體和顏色對話框\obj\Debug\字體和顏色對話框.csprojAssemblyReference.cache
+C:\Users\k2lairrol\source\repos\字體和顏色對話框\字體和顏色對話框\obj\Debug\字體和顏色對話框.Form1.resources
+C:\Users\k2lairrol\source\repos\字體和顏色對話框\字體和顏色對話框\obj\Debug\字體和顏色對話框.Properties.Resources.resources
+C:\Users\k2lairrol\source\repos\字體和顏色對話框\字體和顏色對話框\obj\Debug\字體和顏色對話框.csproj.GenerateResource.cache
+C:\Users\k2lairrol\source\repos\字體和顏色對話框\字體和顏色對話框\obj\Debug\字體和顏色對話框.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\source\repos\字體和顏色對話框\字體和顏色對話框\obj\Debug\字體和顏色對話框.exe
+C:\Users\k2lairrol\source\repos\字體和顏色對話框\字體和顏色對話框\obj\Debug\字體和顏色對話框.pdb

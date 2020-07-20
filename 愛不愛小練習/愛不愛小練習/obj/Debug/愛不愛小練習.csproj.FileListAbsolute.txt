@@ -1,0 +1,9 @@
+C:\Users\k2lairrol\source\repos\愛不愛小練習\愛不愛小練習\bin\Debug\愛不愛小練習.exe.config
+C:\Users\k2lairrol\source\repos\愛不愛小練習\愛不愛小練習\bin\Debug\愛不愛小練習.exe
+C:\Users\k2lairrol\source\repos\愛不愛小練習\愛不愛小練習\bin\Debug\愛不愛小練習.pdb
+C:\Users\k2lairrol\source\repos\愛不愛小練習\愛不愛小練習\obj\Debug\愛不愛小練習.Form1.resources
+C:\Users\k2lairrol\source\repos\愛不愛小練習\愛不愛小練習\obj\Debug\愛不愛小練習.Properties.Resources.resources
+C:\Users\k2lairrol\source\repos\愛不愛小練習\愛不愛小練習\obj\Debug\愛不愛小練習.csproj.GenerateResource.cache
+C:\Users\k2lairrol\source\repos\愛不愛小練習\愛不愛小練習\obj\Debug\愛不愛小練習.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\source\repos\愛不愛小練習\愛不愛小練習\obj\Debug\愛不愛小練習.exe
+C:\Users\k2lairrol\source\repos\愛不愛小練習\愛不愛小練習\obj\Debug\愛不愛小練習.pdb

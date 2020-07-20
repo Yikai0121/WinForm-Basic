@@ -1,0 +1,10 @@
+C:\Users\k2lairrol\source\repos\簡單石頭布\簡單石頭布\bin\Debug\簡單石頭布.exe.config
+C:\Users\k2lairrol\source\repos\簡單石頭布\簡單石頭布\bin\Debug\簡單石頭布.exe
+C:\Users\k2lairrol\source\repos\簡單石頭布\簡單石頭布\bin\Debug\簡單石頭布.pdb
+C:\Users\k2lairrol\source\repos\簡單石頭布\簡單石頭布\obj\Debug\簡單石頭布.csprojAssemblyReference.cache
+C:\Users\k2lairrol\source\repos\簡單石頭布\簡單石頭布\obj\Debug\簡單石頭布.Form1.resources
+C:\Users\k2lairrol\source\repos\簡單石頭布\簡單石頭布\obj\Debug\簡單石頭布.Properties.Resources.resources
+C:\Users\k2lairrol\source\repos\簡單石頭布\簡單石頭布\obj\Debug\簡單石頭布.csproj.GenerateResource.cache
+C:\Users\k2lairrol\source\repos\簡單石頭布\簡單石頭布\obj\Debug\簡單石頭布.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\source\repos\簡單石頭布\簡單石頭布\obj\Debug\簡單石頭布.exe
+C:\Users\k2lairrol\source\repos\簡單石頭布\簡單石頭布\obj\Debug\簡單石頭布.pdb

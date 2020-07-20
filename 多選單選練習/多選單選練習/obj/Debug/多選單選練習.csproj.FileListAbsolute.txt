@@ -1,0 +1,10 @@
+C:\Users\k2lairrol\source\repos\多選單選練習\多選單選練習\bin\Debug\多選單選練習.exe.config
+C:\Users\k2lairrol\source\repos\多選單選練習\多選單選練習\bin\Debug\多選單選練習.exe
+C:\Users\k2lairrol\source\repos\多選單選練習\多選單選練習\bin\Debug\多選單選練習.pdb
+C:\Users\k2lairrol\source\repos\多選單選練習\多選單選練習\obj\Debug\多選單選練習.csprojAssemblyReference.cache
+C:\Users\k2lairrol\source\repos\多選單選練習\多選單選練習\obj\Debug\多選單選練習.Form1.resources
+C:\Users\k2lairrol\source\repos\多選單選練習\多選單選練習\obj\Debug\多選單選練習.Properties.Resources.resources
+C:\Users\k2lairrol\source\repos\多選單選練習\多選單選練習\obj\Debug\多選單選練習.csproj.GenerateResource.cache
+C:\Users\k2lairrol\source\repos\多選單選練習\多選單選練習\obj\Debug\多選單選練習.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\source\repos\多選單選練習\多選單選練習\obj\Debug\多選單選練習.exe
+C:\Users\k2lairrol\source\repos\多選單選練習\多選單選練習\obj\Debug\多選單選練習.pdb

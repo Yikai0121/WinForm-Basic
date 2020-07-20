@@ -1,0 +1,9 @@
+C:\Users\k2lairrol\source\repos\PictureBox練習2\PictureBox練習2\bin\Debug\PictureBox練習2.exe.config
+C:\Users\k2lairrol\source\repos\PictureBox練習2\PictureBox練習2\bin\Debug\PictureBox練習2.exe
+C:\Users\k2lairrol\source\repos\PictureBox練習2\PictureBox練習2\bin\Debug\PictureBox練習2.pdb
+C:\Users\k2lairrol\source\repos\PictureBox練習2\PictureBox練習2\obj\Debug\PictureBox練習2.Form1.resources
+C:\Users\k2lairrol\source\repos\PictureBox練習2\PictureBox練習2\obj\Debug\PictureBox練習2.Properties.Resources.resources
+C:\Users\k2lairrol\source\repos\PictureBox練習2\PictureBox練習2\obj\Debug\PictureBox練習2.csproj.GenerateResource.cache
+C:\Users\k2lairrol\source\repos\PictureBox練習2\PictureBox練習2\obj\Debug\PictureBox練習2.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\source\repos\PictureBox練習2\PictureBox練習2\obj\Debug\PictureBox練習2.exe
+C:\Users\k2lairrol\source\repos\PictureBox練習2\PictureBox練習2\obj\Debug\PictureBox練習2.pdb
