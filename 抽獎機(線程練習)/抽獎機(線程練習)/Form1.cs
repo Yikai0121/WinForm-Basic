@@ -30,7 +30,7 @@ namespace 抽獎機_線程練習_
                 th.IsBackground = true;
                 th.Start();
             }
-            else
+            else//b==false
             {
                 b = false;
                 button1.Text = "開始";
